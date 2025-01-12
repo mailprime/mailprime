@@ -1,0 +1,23 @@
+{
+	"name": "mailprime",
+	"version": "1.0.0",
+	"description": "Smooth Email Delivery Directly from Forms.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mailprime/mailprime.git"
+	},
+	"keywords": [
+		"form",
+		"mail"
+	],
+	"author": "Akash Deep",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/mailprime/mailprime/issues"
+	},
+	"homepage": "https://github.com/mailprime/mailprime#readme"
+}
