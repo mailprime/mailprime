@@ -1,6 +1,6 @@
 {
 	"name": "mailprime",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Smooth Email Delivery Directly from Forms.",
 	"main": "index.js",
 	"scripts": {
@@ -12,7 +12,8 @@
 	},
 	"keywords": [
 		"form",
-		"mail"
+		"mail",
+		"frontend"
 	],
 	"author": "Akash Deep",
 	"license": "MIT",
